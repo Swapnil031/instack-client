@@ -1,27 +1,21 @@
 # InStack
-### An Instagram Website Clone
+### Instagram Website Clone
 
 **[Live Site - Signup and Enjoy!](https://swapnil031.github.io/instack-client/)**
 
 This is the code repository for the project "InStack" - the website clone of Instagram, a popular social media site.
 Signup in the app and enjoy the site! Users can post pictures, like and comment on other posts, follow/unfollow other users and edit their profile. 
 
-The website is developed using MERN stack -
-MongoDB - NoSQL based DBMS
-Express - A node.js framework
-React - A JS library
-Node.js - A JS runtime envt.
+The website is developed using MERN stack - [MongoDB](https://www.mongodb.com/) + [Express](https://expressjs.com/) + [React](https://reactjs.org/) + [Node.js](https://nodejs.org/en/)
 
-Here I have used Materialize - CSS framework - for designing an interactive and mobile-responsive frontend of app. 
-//The frontend of the app is designed mobile-responsive using **CSS** and developed in **React**. The client-side is deployed on **Github-Pages**.
+Here, I have used [Materialize](https://materializecss.com/) for designing the interactive and mobile-responsive frontend of app. 
 
-The backend server is hosted on **Heroku** and the frontend of app is deployed on **Github-Pages**.
+The server is hosted on **Heroku** and the frontend is deployed on **Github-Pages**.
 
-Concepts learnt :
-* RESTful APIs - setting up communication b/w client and server
-* Json Web Token(jwt) - user authentication
-* Express Middlewares - creating protected routes
-* React Hooks - useContext, useReducer, useState, useEffect
+**Concepts learnt :**
+* REST APIs, CRUD operations
+* Json Web Token(jwt), bcrypt.js for user authentication
+* React Hooks (useContext, useReducer), Express Middlewares
 * MERN Stack - MongoDB, Express, React, Node.js
 
 
