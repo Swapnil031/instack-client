@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instack-client/static/css/main.85b9d34a.chunk.css",
+    "main.js": "/instack-client/static/js/main.a76e7f9a.chunk.js",
+    "main.js.map": "/instack-client/static/js/main.a76e7f9a.chunk.js.map",
+    "runtime-main.js": "/instack-client/static/js/runtime-main.d5f834f7.js",
+    "runtime-main.js.map": "/instack-client/static/js/runtime-main.d5f834f7.js.map",
+    "static/js/2.98616fe6.chunk.js": "/instack-client/static/js/2.98616fe6.chunk.js",
+    "static/js/2.98616fe6.chunk.js.map": "/instack-client/static/js/2.98616fe6.chunk.js.map",
+    "index.html": "/instack-client/index.html",
+    "precache-manifest.9481b3352380cef5fb5688867bb73f2f.js": "/instack-client/precache-manifest.9481b3352380cef5fb5688867bb73f2f.js",
+    "service-worker.js": "/instack-client/service-worker.js",
+    "static/css/main.85b9d34a.chunk.css.map": "/instack-client/static/css/main.85b9d34a.chunk.css.map",
+    "static/js/2.98616fe6.chunk.js.LICENSE.txt": "/instack-client/static/js/2.98616fe6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5f834f7.js",
+    "static/js/2.98616fe6.chunk.js",
+    "static/css/main.85b9d34a.chunk.css",
+    "static/js/main.a76e7f9a.chunk.js"
+  ]
+}
