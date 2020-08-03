@@ -10,7 +10,7 @@ The website is developed using MERN stack - [MongoDB](https://www.mongodb.com/) 
 
 React is used to built frontend structure of app and fetching data from server using API. The backend of website is developed using Express, where the API requests are routed to correct path and response is send after fetching data from database. 
 
-The interactive and mobile-responsive client-end of the app is designed using [Materialize](https://materializecss.com/) - a front-end framework based on Material Design. 
+The interactive and mobile-responsive client-end of the app is designed using *[Materialize](https://materializecss.com/)* - a front-end framework based on Material Design. 
 The server is hosted on **Heroku** and the frontend is deployed on **Github-Pages**.
 
 **Concepts learnt :**
