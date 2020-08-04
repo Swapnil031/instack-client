@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8bbecaa3f44500380e9e14885d42b40",
+    "revision": "7b46392029f3f160c86f8fbc7b1860bf",
     "url": "/instack-client/index.html"
   },
   {
-    "revision": "2fba6fcd4ccfbd09dcbd",
+    "revision": "c0884f6910edddbeb8b1",
     "url": "/instack-client/static/css/main.85b9d34a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/instack-client/static/js/2.98616fe6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fba6fcd4ccfbd09dcbd",
-    "url": "/instack-client/static/js/main.a76e7f9a.chunk.js"
+    "revision": "c0884f6910edddbeb8b1",
+    "url": "/instack-client/static/js/main.63946534.chunk.js"
   },
   {
     "revision": "f3a135250d5fa43b360e",

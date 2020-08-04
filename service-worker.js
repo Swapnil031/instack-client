@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/instack-client/precache-manifest.9481b3352380cef5fb5688867bb73f2f.js"
+  "/instack-client/precache-manifest.bb4109d52d85bca6473673ce9a8b14b8.js"
 );
 
 self.addEventListener('message', (event) => {
